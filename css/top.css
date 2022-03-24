@@ -1,0 +1,96 @@
+
+.one{ border: 0.1px rgb(0, 0, 0) dashed;
+position: absolute;
+top: 150px;
+transition: 1s; 
+
+
+   }
+   .one:hover{transform: scale(1.1);border: 3px dashed rgb(218, 81, 81);}
+
+.one1{
+    border: 0.1px rgb(0, 0, 0) dashed;
+    position: absolute;
+top: 150px;
+left: 400px;
+transition: 1s; 
+
+}
+.one1:hover{transform: scale(1.1);border: 3px dashed rgb(218, 81, 81);}
+
+.one2{border: 0.1px rgb(0, 0, 0) dashed;   position: absolute;
+    top: 150px;
+    left: 800px;    transition: 1s; 
+}
+    .one2:hover{transform: scale(1.1);border: 3px dashed rgb(218, 81, 81);}
+
+.one3{border: 0.1px rgb(0, 0, 0) dashed; position: absolute;
+    top: 150px;
+    left: 1200px;    transition: 1s; 
+}
+    .one3:hover{transform: scale(1.1);border: 3px dashed rgb(218, 81, 81);}
+
+.one4{border: 0.1px rgb(0, 0, 0) dashed;position: absolute;
+    top: 150px;
+    left: 1600px;    transition: 1s; 
+}
+    .one4:hover{transform: scale(1.1);border: 3px dashed rgb(218, 81, 81);}
+
+
+.two{border: 0.1px rgb(0, 0, 0) dashed;
+    position: absolute;
+    top: 500px;
+    transition: 1s; }
+    .two:hover{transform: scale(1.1);border: 3px dashed rgb(218, 81, 81);}
+
+    .two1{border: 0.1px rgb(0, 0, 0) dashed;
+        position: absolute;
+        top: 500px;
+        left: 400px;
+        transition: 1s; } 
+        .two1:hover{transform: scale(1.1);border: 3px dashed rgb(218, 81, 81);}
+        .two2{border: 0.1px rgb(0, 0, 0) dashed;
+            position: absolute;
+            top: 500px;
+            left: 800px;
+            transition: 1s; }
+            .two2:hover{transform: scale(1.1);border: 3px dashed rgb(218, 81, 81);} 
+            .two3{border: 0.1px rgb(0, 0, 0) dashed;
+                position: absolute;
+                top: 500px;
+                left: 1200px;
+                transition: 1s; }
+                .two3:hover{transform: scale(1.1); border: 3px dashed rgb(218, 81, 81);}
+                .two4{border: 0.1px rgb(0, 0, 0) dashed;
+                    position: absolute;
+                    top: 500px;
+                    left: 1600px;
+                    transition: 1s; }
+                    .two4:hover{transform: scale(1.1);
+                        border: 3px dashed rgb(218, 81, 81)}
+
+.hudi1{position: absolute;
+top: 170px;
+left: 180px;border: 0.1px rgb(218, 81, 81) dashed;transition: 1s; 
+}
+.hudi1:hover{transform: scale(1.1);}
+.Hudi1_text{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    position: absolute;
+    left: 1000px;
+    top: 150px;
+}
+.hudi1_info{ font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    position: absolute;
+    left: 1000px;
+    top: 210px;}
+    .info_hudi1{
+font-family: 'Courier New', Courier, monospace;
+        font-size: 23px;
+        position: absolute;
+        left: 1000px;
+        top: 250px;
+    }
+    .price_hudi_1{color:rgb(255, 78, 78) ;}

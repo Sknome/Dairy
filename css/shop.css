@@ -1,0 +1,19 @@
+.shop1{
+position: relative;
+top: 100px;
+left: 400px;
+border: 0.1px rgb(0, 0, 0) dashed;
+transition: 1s; 
+}
+.shop1:hover{transform: scale(1.1);}
+.shop2{
+    position: relative;
+top: 105px;
+left: 810px;
+border: 0.1px rgb(0, 0, 0) dashed;
+width: 43%;
+transition: 1s; 
+}
+.shop2:hover{transform: scale(1.1);}
+
+ 

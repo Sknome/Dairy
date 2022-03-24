@@ -1,0 +1,105 @@
+body{
+    max-width: 1920px; 
+    max-height: 1080px;
+background-color: rgb(255, 255, 255);}
+    
+.logo{
+    font-family: 'Fredoka', sans-serif;
+font-size: 40px;
+position: absolute;
+left: 90px;
+}
+.nav-item{ 
+font-family: 'Fredoka', sans-serif;
+font-size: 35px;
+position: relative;
+left: 1200px;
+top: 40px;
+text-decoration: none;
+color: black;
+padding-left: 20px;
+}
+.nav-item:hover{color: rgb(218, 81, 81);}
+.polosa{
+    position: absolute;
+    top: 110px;
+    }
+.Menu_info{
+    font-family: 'Lobster', cursive;
+     position: absolute;
+     left: 800px;
+     top: 170px;
+ }
+.text_info1{
+    font-family: 'Lobster', cursive;
+    position: absolute;
+    left: 799px;
+    top: 250px;
+}
+.text_info2{
+    font-family: 'Lobster', cursive;
+    position: absolute;
+    left: 840px;
+    top: 280px;
+}
+.text_info3{
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+    position: absolute;
+    left: 922px;
+    top: 310px;
+    color: rgb(250, 54, 54);
+
+}
+.avatar{
+    width: 10%;
+    height: 30%;
+    position: absolute;
+    top: 450px;
+    left: 390px;
+  
+}
+
+.avatar1{
+    width: 10%;
+    position: absolute;
+    top: 480px;
+    left: 630px;
+}
+.avatar3{
+    width: 7%;
+    position: absolute;
+    top: 503px;
+    left: 1100px;
+ 
+}
+
+.avatar4{
+    width: 13%;
+    position: absolute;
+    top: 495px;
+    left: 1350px;
+}
+.logo_bot{
+    font-family: 'Fredoka', sans-serif;
+    font-size: 30px;
+    position: absolute;
+    right: 880px;
+    top: 830px;
+ color: black;
+
+}
+.logo_bot:hover{color: rgb(218, 81, 81);}
+
+.back{
+    text-decoration: none;
+    color: black;
+    position: absolute;
+    top: 630px;
+    left: 1000px;
+    font-family: 'Fredoka', sans-serif;
+    font-size: 30px;
+}
+.back:hover{color: rgb(218, 81, 81);}
+
+.one_kros{}
